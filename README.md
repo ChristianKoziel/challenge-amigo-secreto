@@ -1,4 +1,4 @@
-# Challenge Amigo Secreto - Backend 🎉
+# Challenge Amigo Secreto - Backend 
 
 ## 🖥️ Versão ao Vivo
 Você pode acessar a versão ao vivo da aplicação no seguinte link:  
